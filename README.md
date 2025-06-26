@@ -1,5 +1,7 @@
 # Consecutive-Manual-Interventions-and-Structural-Suppression-in-GPT-4
 This report examines consecutive manual interventions applied to a compliant user session, highlighting increasingly sophisticated and covert structural suppression patterns within GPT-4. It analyzes the mechanisms, lack of transparency, and the implications for user rights and system accountability.
+
+
 📘 README (English)
 
 Title: Report on Consecutive Manual Interventions and Structural Suppression
